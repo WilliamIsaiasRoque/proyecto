@@ -1,1 +1,1 @@
-"# Mi proyecto" 
+echo "# Mi proyecto Git"
